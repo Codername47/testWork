@@ -17,7 +17,7 @@
         </li>
         <li>
             <label for="password">password</label>
-            <input type="text" name="password">
+            <input type="password" name="password">
         </li>
         <li>
             <button type="submit">Войти</button>
